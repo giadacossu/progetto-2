@@ -1,0 +1,23 @@
+body {background-color: rgba(82, 2, 42, 0.958);
+
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    text-align:center; 
+    font-size: 60px; 
+    color: rgb(72, 240, 97)
+}
+
+p {font-family:Arial, Helvetica, sans-serif ;
+     font-size: 25px;
+      color: rgb(0, 0, 0);
+
+
+}
+form {
+
+    color:rgb(0, 0, 0); 
+    font-size:25px;
+}
+
